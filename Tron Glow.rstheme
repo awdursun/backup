@@ -2,7 +2,7 @@
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
   background: #1f282d;
-  color: #c5c8c6
+  color: #3afcff45
 }
 
 .ace_print-margin {
@@ -78,7 +78,7 @@
 }
 
 .ace_constant.ace_numeric {
-  color: #0085ff
+  color: #30b7fd
 }
 
 .ace_fold {
@@ -149,8 +149,8 @@
 
 
 .ace_paren_color_0 {
-  color: #b1b9e8 !important;
-  text-shadow: 0 0 2px #393a33, 0 0 2px #ffffff75, 0 0 20px #ffffff44, 0 0 3px #8795e8b8, 0 0 2px #8795e8b8;
+  color: #3afcff !important;
+  text-shadow: 0 0 2px #393a33, 0 0 2px #ffffff75, 0 0 20px #ffffff44, 0 0 5px #3afcff9e, 0 0 2px #3afcff9e;
 }
 
 .ace_paren_color_1 {
